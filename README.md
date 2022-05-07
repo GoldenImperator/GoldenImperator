@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GoldenImperator
 - 👀 I’m interested in ... Data Science 
-- 🌱 I’m currently learning ... Azure Cluoud architecture
+- 🌱 I’m currently learning ... Azure Cloud architecture
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
